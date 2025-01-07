@@ -1,0 +1,1 @@
+# Landslide-Detection-in-Satellite-Images-using-InceptionUNet-and-Convolutional-Block-Attention-Module
